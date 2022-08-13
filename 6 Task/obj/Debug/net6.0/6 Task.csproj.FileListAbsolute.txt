@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\bin\Debug\net6.0\6 Task.exe
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\bin\Debug\net6.0\6 Task.deps.json
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\bin\Debug\net6.0\6 Task.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\bin\Debug\net6.0\6 Task.dll
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\bin\Debug\net6.0\6 Task.pdb
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.dll
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\refint\6 Task.dll
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.pdb
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\6 Task.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\Урок 3.3\Task 4\6 Task\obj\Debug\net6.0\ref\6 Task.dll
